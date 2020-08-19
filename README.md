@@ -1,3 +1,23 @@
+## CS 255 - 8-2 Journal: Portfolio Submission
+
+**Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
+DriverPass was looking to outsource the building and implementation of a new application that allowed customers to manage their reservations while employees could administer on their end. The system was supposed to manage, organize, and provide authorized access to customer information, DMV test results and scheduling, their LMS for customers to take online classes, and an interface for both customer and employee to create, modify, and cancel reservation for classroom and in-person driving lessons.
+
+**What did you do particularly well?**
+I believe that I did best when it came to planning for all possible user experiences in order to optimize the project. I repeatedly simulated going through the system as the customer in order to identify potential bugs, loopholes, and erroneous logic. Planning for all potential output scenarios was something I worked towards.
+
+**If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
+I would like to develop the part of the system that gets into permissions and authentication for the different security clearance levels of the DriverPass employees. The interview transcript included a part about how certain people would need unrestricted access while others should only be able to work on the tasks specific to their job role. I would include a highly detailed breakdown of each employee, if provided, as well as their effective permissions for accessing the system.
+
+**How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
+After creating an initial, basic diagram of the system, I tried to experience it from the perspective of the end user. While doing so, I made notes of things that were missing and should be included, problems I encountered, or parts of the experience that took too much time or were too complicated to work through. The whole point of the project is to create a new interface for the customer, therefore their experience and opinion is most important since they are the source of revenue.
+
+**How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
+I always try to take a two-sided approach to developing any software code. I begin by building code and logic up from nothing as a developer would do to gradually meet the requirements of the project. At points throughout the process, I take the opposite perspective of the end user (customer, administrator, etc.) and try to identify breakpoints and flaws within the logic in an effort to correct them. In the future I would use unit testing, integration testing, and even write some Junit code in order to make my testing approach as effective as possible. I would also always work to make the code as modular as possible so that any errors could be more easily identified.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 ## CS 230 Operating Platforms Reflection
 
 **Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
