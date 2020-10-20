@@ -1,3 +1,15 @@
+## CS 305 - Portfolio Submission - Software Security
+
+“Artemis Financial desires to modernize its operations and, as a crucial part of the success of its custom software, they want to implement and apply the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API) and is seeking…expertise in taking steps to protect the organization from external threats.”
+
+Artemis is looking for a development team that will review their systems in order to identify any and all potential security flaws. They prioritize the safety and privacy of their consumers; therefore they are outsourcing experts in vulnerability assessment so that they may fix any problems within their IT infrastructure.
+
+Their vulnerabilities were pretty straightforward, and the Maven dependency test was crucial in identifying potential flaws. After eliminating false positives, the check provided a blueprint of what to seek and fix within Artemis’ current code. Coding securely is essential to the success of any business because you are always dealing with a client, and their safety and privacy are paramount to any business model. Security makes people feel safe, especially in the age of frequent digital hacking. People gravitate toward a company with a history of successfully fending off cyber criminals.
+
+Working through the initial vulnerability assessment was a very systematic and logical experience. By using the VAPFD as a guide throughout the process, it was easy to detect potential flaws within the code and the system itself. The layout itself is very self-explanatory. After identifying threats, it was fascinating to investigate their causes to determine the different layers of security involved with safeguarding a system. By re-running software after dependency checks and alterations, it was possible to view whether the application was fixed or not. This was a great tool in alerting me to return to problematic code that negatively affected the program. Also, re-running the dependency check after the fixes were applied was a great starting point to determine if I needed to return to the code or leave it working as is. for future employers, I would demonstrate my work by showing them the Module 6 assignment.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## CS 255 - 8-2 Journal: Portfolio Submission
 
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
