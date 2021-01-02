@@ -1,3 +1,10 @@
+
+## CS 370 Reflection
+
+For this project, we were given the code for an agent to navigate a cyber maze and we have to enhance that process through code. Computer scienctists optimize everything that is electric and they are needed because they fix and optimize the things that we need and don't even know it. It is important to abide to the ethical tenents of honoring privacy, don't monetize off of destructive programs, and don't plagarize code.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
 ## CS 305 - Portfolio Submission - Software Security
 
 “Artemis Financial desires to modernize its operations and, as a crucial part of the success of its custom software, they want to implement and apply the most current and effective software security. Artemis Financial has a RESTful web application programming interface (API) and is seeking…expertise in taking steps to protect the organization from external threats.”
